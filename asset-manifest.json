@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.1f758cc3.chunk.css",
-    "main.js": "/static/js/main.78721857.chunk.js",
-    "main.js.map": "/static/js/main.78721857.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.784c586e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.784c586e.js.map",
-    "static/css/2.af452921.chunk.css": "/static/css/2.af452921.chunk.css",
-    "static/js/2.f5298358.chunk.js": "/static/js/2.f5298358.chunk.js",
-    "static/js/2.f5298358.chunk.js.map": "/static/js/2.f5298358.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.f5301264ad4618d9d32c6b37bc9646ad.js": "/precache-manifest.f5301264ad4618d9d32c6b37bc9646ad.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.af452921.chunk.css.map": "/static/css/2.af452921.chunk.css.map",
-    "static/css/main.1f758cc3.chunk.css.map": "/static/css/main.1f758cc3.chunk.css.map",
-    "static/js/2.f5298358.chunk.js.LICENSE.txt": "/static/js/2.f5298358.chunk.js.LICENSE.txt"
+    "main.css": "https://dreamerin.github.io/uploaddemo.github.io/static/css/main.1f758cc3.chunk.css",
+    "main.js": "https://dreamerin.github.io/uploaddemo.github.io/static/js/main.8ce8d2d7.chunk.js",
+    "main.js.map": "https://dreamerin.github.io/uploaddemo.github.io/static/js/main.8ce8d2d7.chunk.js.map",
+    "runtime-main.js": "https://dreamerin.github.io/uploaddemo.github.io/static/js/runtime-main.25fe0188.js",
+    "runtime-main.js.map": "https://dreamerin.github.io/uploaddemo.github.io/static/js/runtime-main.25fe0188.js.map",
+    "static/css/2.af452921.chunk.css": "https://dreamerin.github.io/uploaddemo.github.io/static/css/2.af452921.chunk.css",
+    "static/js/2.86926c76.chunk.js": "https://dreamerin.github.io/uploaddemo.github.io/static/js/2.86926c76.chunk.js",
+    "static/js/2.86926c76.chunk.js.map": "https://dreamerin.github.io/uploaddemo.github.io/static/js/2.86926c76.chunk.js.map",
+    "index.html": "https://dreamerin.github.io/uploaddemo.github.io/index.html",
+    "precache-manifest.ffdca0c063f76456d09e93443b07eca8.js": "https://dreamerin.github.io/uploaddemo.github.io/precache-manifest.ffdca0c063f76456d09e93443b07eca8.js",
+    "service-worker.js": "https://dreamerin.github.io/uploaddemo.github.io/service-worker.js",
+    "static/css/2.af452921.chunk.css.map": "https://dreamerin.github.io/uploaddemo.github.io/static/css/2.af452921.chunk.css.map",
+    "static/css/main.1f758cc3.chunk.css.map": "https://dreamerin.github.io/uploaddemo.github.io/static/css/main.1f758cc3.chunk.css.map",
+    "static/js/2.86926c76.chunk.js.LICENSE.txt": "https://dreamerin.github.io/uploaddemo.github.io/static/js/2.86926c76.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.784c586e.js",
+    "static/js/runtime-main.25fe0188.js",
     "static/css/2.af452921.chunk.css",
-    "static/js/2.f5298358.chunk.js",
+    "static/js/2.86926c76.chunk.js",
     "static/css/main.1f758cc3.chunk.css",
-    "static/js/main.78721857.chunk.js"
+    "static/js/main.8ce8d2d7.chunk.js"
   ]
 }
